@@ -1,48 +1,30 @@
-# Boikano
-# 📱 SocialSphere — A Full-Stack Social Media App
+# Social media app
 
-SocialSphere is a responsive, full-stack social media application designed to connect users through posts, comments, likes, and real-time interactions. Built with React for the frontend and Node.js/Express for the backend, it integrates a secure database and scalable architecture to support dynamic user engagement.
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
----
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/plazamojapelo-3244s-projects/v0-social-media-app)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/zNmyxGKiZd2)
 
-## 🚀 Features
+## Overview
 
-### 👥 User Functionality
-- User registration and login (with JWT authentication)
-- Profile creation and editing
-- Post creation with text and media
-- Like and comment system
-- Real-time notifications (optional)
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-### 🧠 Backend
-- RESTful API built with Express.js
-- MongoDB or Supabase for data storage
-- Secure authentication with bcrypt and JWT
-- Role-based access control (admin/user)
+## Deployment
 
-### 🎨 Frontend
-- Built with React and Tailwind CSS
-- Responsive design for mobile and desktop
-- Dynamic feed and profile pages
-- Form validation and error handling
+Your project is live at:
 
----
+**[https://vercel.com/plazamojapelo-3244s-projects/v0-social-media-app](https://vercel.com/plazamojapelo-3244s-projects/v0-social-media-app)**
 
-## 🛠 Tech Stack
+## Build your app
 
-| Layer       | Technology              |
-|-------------|--------------------------|
-| Frontend    | React, Tailwind CSS      |
-| Backend     | Node.js, Express.js      |
-| Database    | MongoDB / Supabase       |
-| Auth        | JWT, bcrypt              |
-| Hosting     | Vercel (frontend), Render or Railway (backend) |
+Continue building your app on:
 
----
+**[https://v0.app/chat/projects/zNmyxGKiZd2](https://v0.app/chat/projects/zNmyxGKiZd2)**
 
-## 📦 Installation
+## How It Works
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/socialsphere.git
-cd socialsphere
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
